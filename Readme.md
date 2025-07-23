@@ -1,6 +1,6 @@
-Forked to work on issues instead of waiting for aquarian.
-
 # Magic Storage
+
+Forked to work on issues instead of waiting for aquarian.
 
 Are you tired of having a mess of chests in your base? Never remember where you put your items, and have to run across your entire house to get from chest to chest? This mod will solve all of your problems!
 
