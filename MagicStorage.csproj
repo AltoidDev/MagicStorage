@@ -1,6 +1,6 @@
 ﻿
 <Project Sdk="Microsoft.NET.Sdk">
-  <Import Project="..\tModLoader.targets" />
+  <Import Project="$(HOME)/.local/share/Terraria/tModLoader/ModSources/tModLoader.targets" />
   <PropertyGroup>
     <AssemblyName>MagicStorage</AssemblyName>
     <LangVersion>latest</LangVersion>
@@ -38,7 +38,7 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="SerousCommonLib">
-      <HintPath>..\references\1.4.4\SerousCommonLib.dll</HintPath>
+      <HintPath>$(HOME)/.local/share/Terraria/tModLoader/ModSources/references/1.4.4/SerousCommonLib.dll</HintPath>
     </Reference>
   </ItemGroup>
 </Project>
