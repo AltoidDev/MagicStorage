@@ -932,7 +932,7 @@ namespace MagicStorage.Common.Systems {
 		// NOTE: let this default to 0 since that would refer to the local player in singleplayer
 		private static int accessingPlayer;
 
-		public ref struct AccessContext : IDisposable {
+		public ref struct AccessContext {
 			private int oldPlayer;
 
 			public readonly int Player { get; }
