@@ -19,7 +19,7 @@ Are you unable to keep track of the dozens of crafting stations in your base? Th
 * This tutorial is made for linux systems, if you want windows instructions check the original repo.
 * tModLoader can't be running using any custom compatibility layer, ex. Force the use of a specific Steam Play compatibility tool can't be turned on in steam settings.
 * Join the [Discord Server](https://discord.gg/FemPG7eev4) to discuss
-* .NET 8 (this mod originally said to use .NET 6, but tModLoader itself requires .NET 8)
+* .NET 9 (the mod only builds correctly with .NET 9, and it is also what absoluteAquarian uses, even though tmod uses .NET 8, and the original instructions used .NET 6)
 * [Microsoft XNA Framework Redistributable 4.0](https://www.microsoft.com/en-us/download/details.aspx?id=20914)
 * tModLoader 1.4.4
 * SerousCommonLib (absoluteAquarian Utilities)
